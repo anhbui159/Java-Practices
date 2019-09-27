@@ -1,3 +1,4 @@
+//Given an array, find the index of a given number. The function returns -1 if the number isn't found
 import java.util.Scanner;
 
 public class linearSearch {
